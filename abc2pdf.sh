@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script for convert a collection tunes written in abc format to pdf and midi
+# Script for converting a collection tunes written in abc format to pdf and midi
 
 a=$(basename $1 .abc)
 
